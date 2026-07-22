@@ -1,1 +1,1 @@
-This is This repository contains the supplementary information of the article by Flórez-Rodríguez et al. (2026) about clumped isotopes in fault-related structures along the San Carlos Fault (Picos de Europa, NW Spain). The first release can be accessed through DOI:
+This repository contains the supplementary information of the article by Flórez-Rodríguez et al. (2026) about clumped isotopes in fault-related structures along the San Carlos Fault (Picos de Europa, NW Spain). The first release can be accessed through DOI:
